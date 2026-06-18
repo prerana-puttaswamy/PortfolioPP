@@ -90,36 +90,36 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
   {
     title: "Languages",
     icon: Code2,
-    skills: ["Python", "Java", "C++", "SQL", "TypeScript"]
+    skills: ["Python", "C++", "C", "Java", "SQL"]
   },
   {
-    title: "Backend & APIs",
+    title: "Backend",
     icon: Server,
-    skills: ["Flask", "FastAPI", "Spring Boot", "REST", "GraphQL", "Celery", "WebSockets"]
+    skills: ["FastAPI", "Flask", "REST APIs", "WebSockets", "Microservices"]
   },
   {
     title: "Frontend",
     icon: Layout,
-    skills: ["React", "Next.js"]
+    skills: ["Next.js", "HTML", "CSS"]
   },
   {
     title: "Cloud & DevOps",
     icon: Cloud,
-    skills: ["Docker", "Kubernetes", "Git", "CI/CD", "AWS"]
+    skills: ["AWS", "Docker", "Kubernetes", "Git"]
   },
   {
-    title: "Databases",
+    title: "Databases & Queues",
     icon: Database,
-    skills: ["MySQL", "PostgreSQL", "Redis", "MongoDB"]
+    skills: ["MySQL", "Redis"]
   },
   {
-    title: "ML & AI",
+    title: "AI & ML",
     icon: BrainCircuit,
-    skills: ["PyTorch", "OpenCV", "MediaPipe", "Ollama", "NumPy", "Pandas"]
+    skills: ["PyTorch", "OpenCV", "MediaPipe", "Ollama (LLM/GenAI)"]
   },
   {
-    title: "Tools & Concepts",
+    title: "Concepts",
     icon: Wrench,
-    skills: ["Distributed Systems", "Observability", "System Design", "Agile"]
+    skills: ["Distributed Systems", "Fault-Tolerant Architecture", "Event-Driven Systems", "OOP", "Data Structures & Algorithms", "Agile Methodologies"]
   }
 ];
