@@ -6,8 +6,11 @@
   --color-border: #2A2A2A;
   --color-primary: #FFFFFF;
   --color-secondary: #A0A0A0;
-  --color-accent: #6366F1;
-  --color-accentHover: #4F46E5;
+  --color-accent: #818CF8;
+  --color-accentHover: #6366F1;
+  --color-accent2: #F472B6;
+  --color-accent3: #2DD4BF;
+  --color-accent4: #FBBF24;
 
   --font-sans: var(--font-inter);
   --font-mono: var(--font-jetbrains-mono);
@@ -20,6 +23,13 @@
   33% { transform: translate(30px, -50px) scale(1.1); }
   66% { transform: translate(-20px, 20px) scale(0.9); }
   100% { transform: translate(0px, 0px) scale(1); }
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+.animation-delay-4000 {
+  animation-delay: 4s;
 }
 
 html {
