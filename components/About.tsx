@@ -20,7 +20,7 @@ const About: React.FC = () => {
                 I am a software engineer driven by the challenge of building scalable backends and the creativity of designing intuitive products. My journey began with a curiosity for how data moves across the globe, which evolved into a passion for distributed systems and API design.
               </p>
               <p>
-                I hold a Master's in Computer Science from <span className="text-white font-medium">CSULB</span> (Class of 2026, GPA 3.5), where I focused on advanced algorithms, distributed systems, and system architecture, building on a Bachelor's in Computer Science from Visvesvaraya Technological University in India.
+                I hold a Master's in Computer Science from <span className="text-white font-medium">CSULB</span> (Class of 2026, GPA 3.5), where I focused on advanced algorithms, distributed systems, and system architecture, building on a Bachelor of Engineering in Computer Science from Visvesvaraya Technological University in India (GPA 3.8).
               </p>
               <p>
                 Along the way, I've published peer-reviewed research on real-time sign language translation using deep learning, and I bring that same rigor to building production-grade backend systems.
